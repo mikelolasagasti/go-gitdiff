@@ -1,4 +1,4 @@
-a# go-gitdiff
+# go-gitdiff
 
 [![PkgGoDev](https://pkg.go.dev/badge/github.com/gitleaks/go-gitdiff/gitdiff)](https://pkg.go.dev/github.com/gitleaks/go-gitdiff/gitdiff) [![Go Report Card](https://goreportcard.com/badge/github.com/gitleaks/go-gitdiff)](https://goreportcard.com/report/github.com/gitleaks/go-gitdiff)
 
